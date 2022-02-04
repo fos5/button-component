@@ -1,0 +1,9 @@
+.left-side {
+  position: absolute;
+  width: 237px;
+  height: 1234px;
+  left: -8.5px;
+  top: -9.07px;
+
+  background: #fafbfd;
+}
